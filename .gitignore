@@ -1,0 +1,12 @@
+__pycache__
+*.pkl
+scannet_logs/
+scannet_tensor_logs/
+MinkowskiEngine/
+3Dmatch_tensorboard/
+3Dmatchlog/
+*.ckpt
+*.pth
+*.yaml
+wandb_dir/
+make_dataset/
